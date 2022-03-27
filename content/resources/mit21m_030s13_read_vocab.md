@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Listening
 parent_type: CourseSection
+parent_uid: fd8b1083-a1db-4d27-2564-32b5ee16bba8
 resourcetype: Document
 title: Cross-cultural musical vocabulary handout
 uid: d572c28f-c255-3ce1-0948-b5fef3e34bc5

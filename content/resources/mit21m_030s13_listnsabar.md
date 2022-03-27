@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Listening
 parent_type: CourseSection
+parent_uid: fd8b1083-a1db-4d27-2564-32b5ee16bba8
 resourcetype: Document
 title: Listening guide
 uid: 8af86ec7-c48b-a70e-2202-6d9f02a3248c

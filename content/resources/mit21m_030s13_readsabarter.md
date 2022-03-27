@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Listening
 parent_type: CourseSection
+parent_uid: fd8b1083-a1db-4d27-2564-32b5ee16bba8
 resourcetype: Document
 title: Sabar terms
 uid: 4cb3e3e3-bb01-8253-f5ab-f5a88cedbfaa

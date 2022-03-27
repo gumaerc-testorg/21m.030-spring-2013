@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 57f4bd90-2f53-cd17-d320-c73c7201752d
 resourcetype: Document
 title: 'Paper #1 description'
 uid: 3a4a405f-71f1-dd77-9a6e-e6035d0aaf67

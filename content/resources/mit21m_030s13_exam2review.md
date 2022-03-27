@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1e635179-166e-8d2e-eedd-1f3466e4848f
 resourcetype: Document
 title: Exam 2 review
 uid: 891dff77-36ba-ef4a-2383-6c924e240d11
