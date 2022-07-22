@@ -5,6 +5,7 @@ file: /courses/21m-030-introduction-to-world-music-spring-2013/95bf992626b085ca0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final project description
 uid: 95bf9926-26b0-85ca-0fc8-1afc5531b7ea
 ---
 This file contains information regarding final project assignment.
-

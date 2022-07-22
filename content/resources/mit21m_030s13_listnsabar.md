@@ -5,6 +5,7 @@ file: /courses/21m-030-introduction-to-world-music-spring-2013/8af86ec7c48ba70e2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Listening
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Listening guide
 uid: 8af86ec7-c48b-a70e-2202-6d9f02a3248c
 ---
 This file contains information regarding listening guide:SENEGAL.
-

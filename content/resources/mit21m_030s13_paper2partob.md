@@ -5,6 +5,7 @@ file: /courses/21m-030-introduction-to-world-music-spring-2013/c1263164c6f93b674
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Guide to Participant Observation
 uid: c1263164-c6f9-3b67-45f8-161d46b6d51a
 ---
 This file contains information regarding guide to participant observation.
-

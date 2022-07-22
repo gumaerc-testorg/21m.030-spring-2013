@@ -5,6 +5,7 @@ file: /courses/21m-030-introduction-to-world-music-spring-2013/d8e0217fed15e14c4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Paper #2 description'
 uid: d8e0217f-ed15-e14c-4433-5d4a7c986734
 ---
 This file contains information regarding second paper assignment.
-
