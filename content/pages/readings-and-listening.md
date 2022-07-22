@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings and listening assignments
+  by lecture session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Listening
 uid: fd8b1083-a1db-4d27-2564-32b5ee16bba8
 ---
@@ -60,7 +65,7 @@ Sound: The Materials of Music
 
 \[Soundscapes\] Chapter 1.
 
-[Cross-cultural musical vocabulary handout (PDF)]({{< baseurl >}}/resources/mit21m_030s13_read_vocab)
+{{% resource_link d572c28f-c255-3ce1-0948-b5fef3e34bc5 "Cross-cultural musical vocabulary handout (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -116,7 +121,7 @@ Selections from Tang, Patricia. _Masters of the Sabar: Wolof Griot Percussionist
 *   Chapter 5: "If a Snake Bites You, You Will Think of Death: Sabar Repertories"
 *   Chapter 6: "Dancing Fish and Rice: Performance Contexts"
 
-[Sabar terms (PDF)]({{< baseurl >}}/resources/mit21m_030s13_readsabarter)
+{{% resource_link 4cb3e3e3-bb01-8253-f5ab-f5a88cedbfaa "Sabar terms (PDF)" %}}
 
 [Rambax MIT Sabar drumming ensemble](http://rambax.mit.edu/)
 
@@ -131,7 +136,7 @@ Nder, Alioune Mbaye. "Lenëën." _Nder et le Setsima Group_. Disques Nuits D'Afr
 
 M'Baye, Cheikh Taïrou. "Farwou Diar - Thie Bou Djeune." _Mame Bouna_. Mame Bouna Productions, 2003.
 
-[Listening guide for the above 3 tracks (PDF)]({{< baseurl >}}/resources/mit21m_030s13_listnsabar)
+{{% resource_link 8af86ec7-c48b-a70e-2202-6d9f02a3248c "Listening guide for the above 3 tracks (PDF)" %}}
 
 Selections from CD included with the Tang book (to accompany Chapter 5 reading):
 
