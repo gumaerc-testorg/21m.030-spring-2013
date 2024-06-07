@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding first paper assignment.
 file: /courses/21m-030-introduction-to-world-music-spring-2013/3a4a405f71f1dd779a6ee6035d0aaf67_MIT21M_030S13_paper1.pdf
+file_size: 75568
 file_type: application/pdf
 learning_resource_types:
 - Assignments
