@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding second exam review sheet. '
-file: /courses/21m-030-introduction-to-world-music-spring-2013/891dff7736baef4a23836c924e240d11_MIT21M_030S13_exam2review.pdf
+file: /ol-ocw-studio-app/courses/21m-030-introduction-to-world-music-spring-2013/891dff7736baef4a23836c924e240d11_MIT21M_030S13_exam2review.pdf
 file_size: 94464
 file_type: application/pdf
 learning_resource_types: []

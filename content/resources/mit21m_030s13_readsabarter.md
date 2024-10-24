@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding sabar terms.
-file: /courses/21m-030-introduction-to-world-music-spring-2013/4cb3e3e3bb018253f5abf5a88cedbfaa_MIT21M_030S13_readsabarter.pdf
+file: /ol-ocw-studio-app/courses/21m-030-introduction-to-world-music-spring-2013/4cb3e3e3bb018253f5abf5a88cedbfaa_MIT21M_030S13_readsabarter.pdf
 file_size: 88498
 file_type: application/pdf
 learning_resource_types:
