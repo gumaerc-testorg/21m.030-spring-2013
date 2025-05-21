@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding final project assignment.
-file: /ol-ocw-studio-app/courses/21m-030-introduction-to-world-music-spring-2013/95bf992626b085ca0fc81afc5531b7ea_MIT21M_030S13_FinalProje.pdf
+file: /courses/21m-030-introduction-to-world-music-spring-2013/95bf992626b085ca0fc81afc5531b7ea_MIT21M_030S13_FinalProje.pdf
 file_size: 166927
 file_type: application/pdf
 learning_resource_types:
