@@ -23,7 +23,7 @@ This course introduces selected musical traditions from around the world. We wil
 
 This course is organized around familiar cultural themes and scenes, and will feature a selection of major case studies. From a disciplinary standpoint, this course serves as an introduction to ethnomusicology, a discipline that draws upon and interacts with several other fields, including historical musicology, anthropology, sociology, and cultural studies. Overall, this course aims to explore music as a form of human expression and as a meaningful aspect of daily life.
 
-This course fulfills both [Humanities, Arts, and Social Sciences—Distribution](http://web.mit.edu/hassreq/) (HASS-D) and [Communication Intensive](http://web.mit.edu/commreq/) (CI-H) requirements for undergraduate degrees. It includes four writing assignments that add up to a minimum of 20 pages (see below for details). Paper 1 will be revised and resubmitted. Students will give two oral presentations during the semester, and significant class time will be devoted to discussion.
+This course fulfills both {{% resource_link "1ebec8c6-8482-45f7-9113-ffcd6a6f5c51" "Humanities, Arts, and Social Sciences—Distribution" %}} (HASS-D) and {{% resource_link "a0e40ab4-d936-4b77-81a0-3b0b71c74142" "Communication Intensive" %}} (CI-H) requirements for undergraduate degrees. It includes four writing assignments that add up to a minimum of 20 pages (see below for details). Paper 1 will be revised and resubmitted. Students will give two oral presentations during the semester, and significant class time will be devoted to discussion.
 
 The class size is limited to 25 students.
 
@@ -368,7 +368,7 @@ Final project proposal due Session 17
 {{< tdopen >}}
 
 
-Required concert: MIT Center for Art, Science & Technology [CAST Marathon](http://arts.mit.edu/cast-marathon-concert/)
+Required concert: MIT Center for Art, Science & Technology {{% resource_link "6df02616-3bd4-4994-b11f-268e23ccc3ea" "CAST Marathon" %}}
 
 Features renowned guest artists Hauschka, Pamela Z., and Dewa Alit performing solo works and with students in MIT's own Gamelan Galak Tika, Glass Lab Orchestra, Lamine Touré and Rambax.
 
